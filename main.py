@@ -30,7 +30,8 @@
 
 
 def main():
-    # if Discord tag exists in server:
-        # if agreed(discordTag) == True:
-            # checkName(discordTag)
+    # if agreed(discordTag) == True:
+        # if today's date == timeStamp:
+            # if Discord tag exists in server:
+                # checkName(discordTag)
 main()
