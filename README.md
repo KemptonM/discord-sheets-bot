@@ -16,9 +16,9 @@ Example spreadsheet:
 In this example, only Steve would be given membership.
 
 Requisites for a user to be added automatically:
-- `Timestamp` must match `today's date`
+- `Timestamp` must match `Today's date`
 - Clearance column must be `Yes`
-- Server nickname must be found in `email`
+- Server nickname must be found in `Email`
 
 Planned features:
 - DM users who have signed up but haven't been given membership
