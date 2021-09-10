@@ -1,6 +1,6 @@
 # discord-sheets-bot
 
-## WIP
+**WIP**
 
 A discord bot that utilizes Google sheets for user role management.
 
