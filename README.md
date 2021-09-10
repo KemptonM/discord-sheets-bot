@@ -1,5 +1,6 @@
 # discord-sheets-bot
-**WIP**
+
+## WIP
 
 A discord bot that utilizes Google sheets for user role management.
 
@@ -11,10 +12,10 @@ Example spreadsheet:
 
 Psuedocode:
 - Check for provided discord tag in server
--   If not found, check for first/last name combos
--     If there's a match, shade discord tag red for human review
+  - If not found, check for first/last name combos
+    - If there's a match, shade discord tag red for human review
 - Else, check clearance and compare date with timestamp
--   If good, then give membership and shade the respective discord tag cell
+    - If good, then give membership and shade the respective discord tag cell
 
 Planned features:
 - DM users who have signed up but haven't been given membership
