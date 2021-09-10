@@ -21,5 +21,5 @@ Requisites for a user to be added automatically:
 - Server nickname must be found in `Email`
 
 Planned features:
-- DM users who have signed up but haven't been given membership
+- DM users who have signed up but haven't been given membership (marked yellow)
 - Recognize and highlight discord tag changes to first/last name combos
