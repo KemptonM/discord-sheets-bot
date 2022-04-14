@@ -1,4 +1,4 @@
-// algorithm.py
+// gonna use Discord4J
 // Kempton Maillett
 
 import discord4j.core.DiscordClientBuilder;     // build the client itself
