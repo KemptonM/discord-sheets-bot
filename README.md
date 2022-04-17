@@ -4,6 +4,8 @@
 
 A discord bot that utilizes Google sheets for user role management.
 
+Discord4J is used for communicating with Discord API.
+
 Color shadings are used to mark which users have been added automatically, which need human review, and which were not found in the server.
 
 Example spreadsheet:
@@ -20,6 +22,6 @@ Requisites for a user to be added automatically:
 - Clearance column must be `Yes`
 - Server nickname must be found in `Email`
 
-Planned features:
+Possible new features:
 - DM users who have signed up but haven't been given membership (marked yellow)
 - Recognize and highlight discord tag changes to first/last name combos
